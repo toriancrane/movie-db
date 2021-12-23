@@ -1,8 +1,15 @@
 import React from 'react';
 
+// Styles
+
+import { GlobalStyle } from './GlobalStyle';
+
 const App = () => {
     return(
-        <div>Start here!</div>
+        <div>
+            Start here!
+            <GlobalStyle />
+        </div>
     )
     
 }
