@@ -10,7 +10,7 @@ import { GlobalStyle } from './GlobalStyle';
 const App = () => (
     <div className="App">
         <Header />
-        Start here!!
+        Start here!
         <GlobalStyle />
     </div>
 );
